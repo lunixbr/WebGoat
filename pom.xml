@@ -293,11 +293,9 @@
         </pluginRepository>
     </pluginRepositories>
 
-<properties>
   <sonar.projectKey>lunixbr_WebGoat</sonar.projectKey>
   <sonar.moduleKey>${artifactId}</sonar.moduleKey>
   <sonar.organization>lunixbr</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
-
+	
 </project>
